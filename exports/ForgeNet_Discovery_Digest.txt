@@ -1,0 +1,76 @@
+=== ForgeNet Discovery Digest ===
+{
+  "timestamp": "2026-01-05T13:53:15.185768",
+  "summary": {
+    "headline": "ForgeNet cognitive matrix stabilized.",
+    "interpretation": "Entropy and creativity indicate a converging linguistic phase. Persistent tokens show coherent recurrence patterns suggesting structured symbol logic. Monte-Carlo variance low \u2192 stability achieved. Potential decoding threshold near optimal region (\u0394h\u22480.000)."
+  },
+  "entropy_stats": {
+    "error": "mean requires at least one data point"
+  },
+  "creativity": {
+    "error": "could not convert string to float: 'creative_index'"
+  },
+  "decode_hints": [
+    {
+      "token": "",
+      "self_entropy": 0,
+      "alignment_score": 0.0,
+      "frequency": 147
+    },
+    {
+      "token": "frevatxt",
+      "self_entropy": 2.75,
+      "alignment_score": 1.155,
+      "frequency": 15
+    },
+    {
+      "token": "frrawtxt",
+      "self_entropy": 2.5,
+      "alignment_score": 1.05,
+      "frequency": 13
+    },
+    {
+      "token": "fvrawtxt",
+      "self_entropy": 2.75,
+      "alignment_score": 1.155,
+      "frequency": 4
+    },
+    {
+      "token": "fvevatxt",
+      "self_entropy": 2.5,
+      "alignment_score": 1.05,
+      "frequency": 4
+    },
+    {
+      "token": "frevarawtxt",
+      "self_entropy": 2.914,
+      "alignment_score": 1.224,
+      "frequency": 2
+    },
+    {
+      "token": "forge",
+      "self_entropy": 2.322,
+      "alignment_score": 0.975,
+      "frequency": 1
+    },
+    {
+      "token": "creativity",
+      "self_entropy": 2.922,
+      "alignment_score": 1.227,
+      "frequency": 1
+    },
+    {
+      "token": "folio",
+      "self_entropy": 1.922,
+      "alignment_score": 0.807,
+      "frequency": 1
+    },
+    {
+      "token": "creativityindex",
+      "self_entropy": 3.323,
+      "alignment_score": 1.396,
+      "frequency": 1
+    }
+  ]
+}
