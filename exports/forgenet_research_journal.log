@@ -873,3 +873,28 @@ Collecting research summaries...
 --------------------------
 ✅ Journal entry complete @ 2026-01-05 13:03:30
 
+=== Research Journal Entry — 2026-01-05 13:03:34 ===
+Collecting research summaries...
+[📄 Entropy Drift]
+   Mean Drift: 0.0000
+   All drifts: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+[⚠️  Missing: /data/data/com.termux/files/home/forge/forgenet_creativity_timeline.txt]
+[📄 Decode Insight]
+   {
+     "timestamp": "2026-01-05 10:24:04.471444",
+     "decode_hints": [
+       {
+         "token": "",
+[⚠️  Missing: /data/data/com.termux/files/home/forge/forgenet_neural_insight_output.txt]
+[📄 Lexicon Graph]
+   Lexicon Evolution Graph  —  6 nodes / 3 edges
+   ============================================================
+   creativity      | connections=1
+   creativityindex | connections=1
+   rosettesevatxt  | connections=1
+---- Summary Extract ----
+🧩 Auto Summary (2026-01-05 13:03:32):
+ Total folios analyzed: 25 VOLATILE cluster: 25 folios — avg entropy 3.832 Dominant tokens: iaqipbteeodaiinsheyepairodyosaiinyteeoeysheyepaiinoaiinteeodaiinsheyepainodyosaiinytaoeysheyepaiinoaiirteeodaiinsheyepairodyosaiinyteeoeysheyepaiinoai Persistent high-entropy terms: ibqmpklbhyoralyaryorolyolchdyolcheyolchdyokalyokalookalookolookalookolookoryokarookaryoporeparoparolkyolkyolkyotalshedyokalshedyotalshedyokarokanokano Low-predictability (h1-h2>1.5) folios: f116v_eva.txt, f17r_eva.txt, f1r_eva.txt, f1r_long_eva.txt, f49v_eva.txt, f76r_eva.txt, f78r_eva.txt, f79r_eva.txt, f80r_eva.txt, f81r_eva.txt, f82r_eva.txt, f82v_eva.txt, f83r_eva.txt, f83v_eva.txt, f84r_eva.txt, f88r_eva.txt, f8r_eva.txt, full_rosettes_eva.txt, rosettes_eva.txt, sample_eva.txt
+--------------------------
+✅ Journal entry complete @ 2026-01-05 13:03:34
+
