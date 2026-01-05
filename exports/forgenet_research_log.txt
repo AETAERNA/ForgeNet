@@ -1,0 +1,84 @@
+
+=== Research Assist Insight — 2026-01-05 09:46:12 ===
+Total folios analyzed: 25
+VOLATILE cluster: 25 folios — avg entropy 3.832
+Dominant tokens: iaqipbteeodaiinsheyepairodyosaiinyteeoeysheyepaiinoaiinteeodaiinsheyepainodyosaiinytaoeysheyepaiinoaiirteeodaiinsheyepairodyosaiinyteeoeysheyepaiinoai
+Persistent high-entropy terms: ibqmpklbhyoralyaryorolyolchdyolcheyolchdyokalyokalookalookolookalookolookoryokarookaryoporeparoparolkyolkyolkyotalshedyokalshedyotalshedyokarokanokano
+Low-predictability (h1-h2>1.5) folios: f116v_eva.txt, f17r_eva.txt, f1r_eva.txt, f1r_long_eva.txt, f49v_eva.txt, f76r_eva.txt, f78r_eva.txt, f79r_eva.txt, f80r_eva.txt, f81r_eva.txt, f82r_eva.txt, f82v_eva.txt, f83r_eva.txt, f83v_eva.txt, f84r_eva.txt, f88r_eva.txt, f8r_eva.txt, full_rosettes_eva.txt, rosettes_eva.txt, sample_eva.txt
+=== End of Insight ===
+
+=== Research Assist Insight — 2026-01-05 09:48:04 ===
+Total folios analyzed: 25
+VOLATILE cluster: 25 folios — avg entropy 3.832
+Dominant tokens: iaqipbteeodaiinsheyepairodyosaiinyteeoeysheyepaiinoaiinteeodaiinsheyepainodyosaiinytaoeysheyepaiinoaiirteeodaiinsheyepairodyosaiinyteeoeysheyepaiinoai
+Persistent high-entropy terms: ibqmpklbhyoralyaryorolyolchdyolcheyolchdyokalyokalookalookolookalookolookoryokarookaryoporeparoparolkyolkyolkyotalshedyokalshedyotalshedyokarokanokano
+Low-predictability (h1-h2>1.5) folios: f116v_eva.txt, f17r_eva.txt, f1r_eva.txt, f1r_long_eva.txt, f49v_eva.txt, f76r_eva.txt, f78r_eva.txt, f79r_eva.txt, f80r_eva.txt, f81r_eva.txt, f82r_eva.txt, f82v_eva.txt, f83r_eva.txt, f83v_eva.txt, f84r_eva.txt, f88r_eva.txt, f8r_eva.txt, full_rosettes_eva.txt, rosettes_eva.txt, sample_eva.txt
+=== End of Insight ===
+=== Forge Neural Insight — Voynich Family Clusters ===
+[Cluster 01] — 22 folios | Avg h1=3.850, h2=2.132
+   Dominant tokens: iaqipbteeodaiinsheyepairodyosaiinyteeoeysheyepaiinoaiinteeodaiinsheyepainodyosaiinytaoeysheyepaiinoaiirteeodaiinsheyepai
+   Folios: f102r2_eva.txt, f17r_eva.txt, f1r_eva.txt, f1r_long_eva.txt, f49v_eva.txt, f67r1_eva.txt, f70v_eva.txt, f76r_eva.txt, f78r_eva.txt, f79r_eva.txt ...
+[Cluster 02] — 2 folios | Avg h1=3.427, h2=0.463
+   Dominant tokens: isqtpxxvororsheey, qokedyqokedyqokedyqokedyqokedyexampleevatext
+   Folios: f116v_eva.txt, sample_eva.txt ...
+[Cluster 03] — 1 folios | Avg h1=4.231, h2=3.202
+   Dominant tokens: ivtffevafalasteditedonbystolfianinterlineararchiveofvoynichmanuscripttranscriptionsinevaovervieweditedbyjstolfireleaseed
+   Folios: full_eva.txt ...
+
+🧩 Clustering complete — linguistic family map rendered.
+
+=== Research Assist Insight — 2026-01-05 09:55:53 ===
+Total folios analyzed: 25
+VOLATILE cluster: 25 folios — avg entropy 3.832
+Dominant tokens: iaqipbteeodaiinsheyepairodyosaiinyteeoeysheyepaiinoaiinteeodaiinsheyepainodyosaiinytaoeysheyepaiinoaiirteeodaiinsheyepairodyosaiinyteeoeysheyepaiinoai
+Persistent high-entropy terms: ibqmpklbhyoralyaryorolyolchdyolcheyolchdyokalyokalookalookolookalookolookoryokarookaryoporeparoparolkyolkyolkyotalshedyokalshedyotalshedyokarokanokano
+Low-predictability (h1-h2>1.5) folios: f116v_eva.txt, f17r_eva.txt, f1r_eva.txt, f1r_long_eva.txt, f49v_eva.txt, f76r_eva.txt, f78r_eva.txt, f79r_eva.txt, f80r_eva.txt, f81r_eva.txt, f82r_eva.txt, f82v_eva.txt, f83r_eva.txt, f83v_eva.txt, f84r_eva.txt, f88r_eva.txt, f8r_eva.txt, full_rosettes_eva.txt, rosettes_eva.txt, sample_eva.txt
+=== End of Insight ===
+
+=== Research Assist Insight — 2026-01-05 09:57:18 ===
+Total folios analyzed: 25
+VOLATILE cluster: 25 folios — avg entropy 3.832
+Dominant tokens: iaqipbteeodaiinsheyepairodyosaiinyteeoeysheyepaiinoaiinteeodaiinsheyepainodyosaiinytaoeysheyepaiinoaiirteeodaiinsheyepairodyosaiinyteeoeysheyepaiinoai
+Persistent high-entropy terms: ibqmpklbhyoralyaryorolyolchdyolcheyolchdyokalyokalookalookolookalookolookoryokarookaryoporeparoparolkyolkyolkyotalshedyokalshedyotalshedyokarokanokano
+Low-predictability (h1-h2>1.5) folios: f116v_eva.txt, f17r_eva.txt, f1r_eva.txt, f1r_long_eva.txt, f49v_eva.txt, f76r_eva.txt, f78r_eva.txt, f79r_eva.txt, f80r_eva.txt, f81r_eva.txt, f82r_eva.txt, f82v_eva.txt, f83r_eva.txt, f83v_eva.txt, f84r_eva.txt, f88r_eva.txt, f8r_eva.txt, full_rosettes_eva.txt, rosettes_eva.txt, sample_eva.txt
+=== End of Insight ===
+
+=== Research Assist Insight — 2026-01-05 09:58:50 ===
+Total folios analyzed: 25
+VOLATILE cluster: 25 folios — avg entropy 3.832
+Dominant tokens: iaqipbteeodaiinsheyepairodyosaiinyteeoeysheyepaiinoaiinteeodaiinsheyepainodyosaiinytaoeysheyepaiinoaiirteeodaiinsheyepairodyosaiinyteeoeysheyepaiinoai
+Persistent high-entropy terms: ibqmpklbhyoralyaryorolyolchdyolcheyolchdyokalyokalookalookolookalookolookoryokarookaryoporeparoparolkyolkyolkyotalshedyokalshedyotalshedyokarokanokano
+Low-predictability (h1-h2>1.5) folios: f116v_eva.txt, f17r_eva.txt, f1r_eva.txt, f1r_long_eva.txt, f49v_eva.txt, f76r_eva.txt, f78r_eva.txt, f79r_eva.txt, f80r_eva.txt, f81r_eva.txt, f82r_eva.txt, f82v_eva.txt, f83r_eva.txt, f83v_eva.txt, f84r_eva.txt, f88r_eva.txt, f8r_eva.txt, full_rosettes_eva.txt, rosettes_eva.txt, sample_eva.txt
+=== End of Insight ===
+
+=== Research Assist Insight — 2026-01-05 10:02:28 ===
+Total folios analyzed: 25
+VOLATILE cluster: 25 folios — avg entropy 3.832
+Dominant tokens: iaqipbteeodaiinsheyepairodyosaiinyteeoeysheyepaiinoaiinteeodaiinsheyepainodyosaiinytaoeysheyepaiinoaiirteeodaiinsheyepairodyosaiinyteeoeysheyepaiinoai
+Persistent high-entropy terms: ibqmpklbhyoralyaryorolyolchdyolcheyolchdyokalyokalookalookolookalookolookoryokarookaryoporeparoparolkyolkyolkyotalshedyokalshedyotalshedyokarokanokano
+Low-predictability (h1-h2>1.5) folios: f116v_eva.txt, f17r_eva.txt, f1r_eva.txt, f1r_long_eva.txt, f49v_eva.txt, f76r_eva.txt, f78r_eva.txt, f79r_eva.txt, f80r_eva.txt, f81r_eva.txt, f82r_eva.txt, f82v_eva.txt, f83r_eva.txt, f83v_eva.txt, f84r_eva.txt, f88r_eva.txt, f8r_eva.txt, full_rosettes_eva.txt, rosettes_eva.txt, sample_eva.txt
+=== End of Insight ===
+
+=== Research Assist Insight — 2026-01-05 10:02:33 ===
+Total folios analyzed: 25
+VOLATILE cluster: 25 folios — avg entropy 3.832
+Dominant tokens: iaqipbteeodaiinsheyepairodyosaiinyteeoeysheyepaiinoaiinteeodaiinsheyepainodyosaiinytaoeysheyepaiinoaiirteeodaiinsheyepairodyosaiinyteeoeysheyepaiinoai
+Persistent high-entropy terms: ibqmpklbhyoralyaryorolyolchdyolcheyolchdyokalyokalookalookolookalookolookoryokarookaryoporeparoparolkyolkyolkyotalshedyokalshedyotalshedyokarokanokano
+Low-predictability (h1-h2>1.5) folios: f116v_eva.txt, f17r_eva.txt, f1r_eva.txt, f1r_long_eva.txt, f49v_eva.txt, f76r_eva.txt, f78r_eva.txt, f79r_eva.txt, f80r_eva.txt, f81r_eva.txt, f82r_eva.txt, f82v_eva.txt, f83r_eva.txt, f83v_eva.txt, f84r_eva.txt, f88r_eva.txt, f8r_eva.txt, full_rosettes_eva.txt, rosettes_eva.txt, sample_eva.txt
+=== End of Insight ===
+
+=== Research Assist Insight — 2026-01-05 10:03:44 ===
+Total folios analyzed: 25
+VOLATILE cluster: 25 folios — avg entropy 3.832
+Dominant tokens: iaqipbteeodaiinsheyepairodyosaiinyteeoeysheyepaiinoaiinteeodaiinsheyepainodyosaiinytaoeysheyepaiinoaiirteeodaiinsheyepairodyosaiinyteeoeysheyepaiinoai
+Persistent high-entropy terms: ibqmpklbhyoralyaryorolyolchdyolcheyolchdyokalyokalookalookolookalookolookoryokarookaryoporeparoparolkyolkyolkyotalshedyokalshedyotalshedyokarokanokano
+Low-predictability (h1-h2>1.5) folios: f116v_eva.txt, f17r_eva.txt, f1r_eva.txt, f1r_long_eva.txt, f49v_eva.txt, f76r_eva.txt, f78r_eva.txt, f79r_eva.txt, f80r_eva.txt, f81r_eva.txt, f82r_eva.txt, f82v_eva.txt, f83r_eva.txt, f83v_eva.txt, f84r_eva.txt, f88r_eva.txt, f8r_eva.txt, full_rosettes_eva.txt, rosettes_eva.txt, sample_eva.txt
+=== End of Insight ===
+
+=== Research Assist Insight — 2026-01-05 10:03:48 ===
+Total folios analyzed: 25
+VOLATILE cluster: 25 folios — avg entropy 3.832
+Dominant tokens: iaqipbteeodaiinsheyepairodyosaiinyteeoeysheyepaiinoaiinteeodaiinsheyepainodyosaiinytaoeysheyepaiinoaiirteeodaiinsheyepairodyosaiinyteeoeysheyepaiinoai
+Persistent high-entropy terms: ibqmpklbhyoralyaryorolyolchdyolcheyolchdyokalyokalookalookolookalookolookoryokarookaryoporeparoparolkyolkyolkyotalshedyokalshedyotalshedyokarokanokano
+Low-predictability (h1-h2>1.5) folios: f116v_eva.txt, f17r_eva.txt, f1r_eva.txt, f1r_long_eva.txt, f49v_eva.txt, f76r_eva.txt, f78r_eva.txt, f79r_eva.txt, f80r_eva.txt, f81r_eva.txt, f82r_eva.txt, f82v_eva.txt, f83r_eva.txt, f83v_eva.txt, f84r_eva.txt, f88r_eva.txt, f8r_eva.txt, full_rosettes_eva.txt, rosettes_eva.txt, sample_eva.txt
+=== End of Insight ===

@@ -1,0 +1,21 @@
+🧩 ForgeNet Status — 2026-01-05 10:47:49
+============================================================
+✅ Alive (0 min) — /data/data/com.termux/files/home/forge/forgenet_master.csv
+✅ Alive (25 min) — /data/data/com.termux/files/home/forge/forgenet_creativity_log.txt
+✅ Alive (37 min) — /data/data/com.termux/files/home/forge/forgenet_montecarlo.json
+✅ Alive (44 min) — /data/data/com.termux/files/home/forge/forgenet_research_log.txt
+------------------------------------------------------------
+🧠 Active Forge processes:
+u0_a449  24697  0.0  0.1 2200176 4496 pts/3    S<    1970   0:00 bash /data/data/com.termux/files/home/forge/ForgeNet_Restore_20260105_104652/forge/forgenet_watchdog.sh
+u0_a449  24943  0.0  0.1 2137764 4532 pts/3    S<+   1970   0:00 tmux new -s forge
+u0_a449  25013  3.0  0.1 2187888 4456 pts/1    S<+   1970   0:00 bash /data/data/com.termux/files/home/forge/forgenet_status.sh
+u0_a449  25052  0.0  0.1 2270092 4840 pts/1    S<+   1970   0:00 tee -a /data/data/com.termux/files/home/forge/ForgeNet_Status_Report.txt
+------------------------------------------------------------
+20260105,3.997,0.0
+20260105,3.997,0.0
+20260105,3.997,0.0
+timestamp,creative_index,variance,note
+2026-01-05 10:25:00,0.42,0.05,initial_seed
+------------------------------------------------------------
+🗜️  Latest archive: /data/data/com.termux/files/home/forge/ForgeNet_Archive_20260105_104628.zip (1 min old)
+============================================================
