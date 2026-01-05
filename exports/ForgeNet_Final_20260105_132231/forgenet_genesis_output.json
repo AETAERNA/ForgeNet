@@ -1,0 +1,167 @@
+{
+  "timestamp": "2026-01-05 11:28:51.991102",
+  "entropy": [
+    [
+      "timestamp",
+      "h1",
+      "h2"
+    ],
+    [
+      "20260105",
+      "3.997",
+      "0.0"
+    ],
+    [
+      "20260105",
+      "3.997",
+      "0.0"
+    ],
+    [
+      "20260105",
+      "3.997",
+      "0.0"
+    ],
+    [
+      "20260105",
+      "3.997",
+      "0.0"
+    ]
+  ],
+  "creativity_log": [
+    "timestamp,creative_index,variance,note",
+    "2026-01-05 10:25:00,0.42,0.05,initial_seed"
+  ],
+  "decode_hints": {
+    "timestamp": "2026-01-05 10:24:04.471444",
+    "decode_hints": [
+      {
+        "token": "",
+        "self_entropy": 0,
+        "alignment_score": 0.0,
+        "frequency": 147
+      },
+      {
+        "token": "frevatxt",
+        "self_entropy": 2.75,
+        "alignment_score": 1.155,
+        "frequency": 15
+      },
+      {
+        "token": "frrawtxt",
+        "self_entropy": 2.5,
+        "alignment_score": 1.05,
+        "frequency": 13
+      },
+      {
+        "token": "fvrawtxt",
+        "self_entropy": 2.75,
+        "alignment_score": 1.155,
+        "frequency": 4
+      },
+      {
+        "token": "fvevatxt",
+        "self_entropy": 2.5,
+        "alignment_score": 1.05,
+        "frequency": 4
+      },
+      {
+        "token": "frevarawtxt",
+        "self_entropy": 2.914,
+        "alignment_score": 1.224,
+        "frequency": 2
+      },
+      {
+        "token": "forge",
+        "self_entropy": 2.322,
+        "alignment_score": 0.975,
+        "frequency": 1
+      },
+      {
+        "token": "creativity",
+        "self_entropy": 2.922,
+        "alignment_score": 1.227,
+        "frequency": 1
+      },
+      {
+        "token": "folio",
+        "self_entropy": 1.922,
+        "alignment_score": 0.807,
+        "frequency": 1
+      },
+      {
+        "token": "creativityindex",
+        "self_entropy": 3.323,
+        "alignment_score": 1.396,
+        "frequency": 1
+      },
+      {
+        "token": "heartbeatlogtxt",
+        "self_entropy": 3.107,
+        "alignment_score": 1.305,
+        "frequency": 1
+      },
+      {
+        "token": "adaptivelogcyclestxt",
+        "self_entropy": 3.684,
+        "alignment_score": 1.547,
+        "frequency": 1
+      },
+      {
+        "token": "frlongevatxt",
+        "self_entropy": 3.418,
+        "alignment_score": 1.436,
+        "frequency": 1
+      },
+      {
+        "token": "rosettesevatxt",
+        "self_entropy": 2.753,
+        "alignment_score": 1.156,
+        "frequency": 1
+      },
+      {
+        "token": "fullrosettesevatxt",
+        "self_entropy": 3.239,
+        "alignment_score": 1.36,
+        "frequency": 1
+      },
+      {
+        "token": "rosettesrawtxt",
+        "self_entropy": 2.807,
+        "alignment_score": 1.179,
+        "frequency": 1
+      },
+      {
+        "token": "fullrosettesrawtxt",
+        "self_entropy": 3.281,
+        "alignment_score": 1.378,
+        "frequency": 1
+      },
+      {
+        "token": "frlongrawtxt",
+        "self_entropy": 3.252,
+        "alignment_score": 1.366,
+        "frequency": 1
+      },
+      {
+        "token": "fullevatxt",
+        "self_entropy": 2.922,
+        "alignment_score": 1.227,
+        "frequency": 1
+      },
+      {
+        "token": "zlbntxt",
+        "self_entropy": 2.522,
+        "alignment_score": 1.059,
+        "frequency": 1
+      },
+      {
+        "token": "entropylogultratxt",
+        "self_entropy": 3.392,
+        "alignment_score": 1.425,
+        "frequency": 1
+      }
+    ],
+    "entropy_count": 95,
+    "creativity_points": 1
+  }
+}

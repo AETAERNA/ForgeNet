@@ -1,0 +1,48 @@
+{
+  "timestamp": "2026-01-05 10:26:58.733017",
+  "nodes": 6,
+  "edges": 3,
+  "top_nodes": [
+    [
+      "creativity",
+      1
+    ],
+    [
+      "creativityindex",
+      1
+    ],
+    [
+      "rosettesevatxt",
+      1
+    ],
+    [
+      "rosettesrawtxt",
+      1
+    ],
+    [
+      "fullrosettesevatxt",
+      1
+    ],
+    [
+      "fullrosettesrawtxt",
+      1
+    ]
+  ],
+  "edges_data": [
+    {
+      "a": "creativity",
+      "b": "creativityindex",
+      "weight": 0.401
+    },
+    {
+      "a": "rosettesevatxt",
+      "b": "rosettesrawtxt",
+      "weight": 0.054
+    },
+    {
+      "a": "fullrosettesevatxt",
+      "b": "fullrosettesrawtxt",
+      "weight": 0.042
+    }
+  ]
+}

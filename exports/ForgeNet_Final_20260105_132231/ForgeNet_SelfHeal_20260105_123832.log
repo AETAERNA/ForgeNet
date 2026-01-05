@@ -1,0 +1,18 @@
+============================================================
+🧬 ForgeNet Self-Healing Run — 20260105_123832
+============================================================
+✅ Found directory: /data/data/com.termux/files/home/forge
+✅ Found directory: /data/data/com.termux/files/home/ForgeNet
+✅ Found directory: /data/data/com.termux/files/home/.termux/boot
+✅ Found directory: /data/data/com.termux/files/home/forge/voynich_f17r_sim
+✅ Refreshed permissions on all shell scripts.
+⚠️  forgevision_live.sh not running — restarting...
+✅ forgevision_live.sh relaunched.
+✅ forgevision_databridge.py already running.
+⚠️  forgenet_voice.py not running — restarting...
+✅ forgenet_voice.py relaunched.
+⚠️  forgenet_autosync.sh not running — restarting...
+✅ forgenet_autosync.sh relaunched.
+============================================================
+🧩 Self-Healing complete — report → /data/data/com.termux/files/home/forge/ForgeNet_SelfHeal_20260105_123832.log
+============================================================

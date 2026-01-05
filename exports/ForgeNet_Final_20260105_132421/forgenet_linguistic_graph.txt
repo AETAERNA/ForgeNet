@@ -1,0 +1,6 @@
+=== ForgeNet Linguistic Genesis Visualizer ===
+Timestamp: 2026-01-05T13:24:20.104035
+Templates visualized: 0
+------------------------------------------------------------
+
+Role occurrence distribution:

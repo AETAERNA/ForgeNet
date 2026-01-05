@@ -1,0 +1,29 @@
+{
+  "timestamp": "2026-01-05 10:25:22.687827",
+  "semantic_drifts": [
+    {
+      "root": "creativi",
+      "forms": [
+        "creativity",
+        "creativityindex"
+      ],
+      "drift": 0.401
+    },
+    {
+      "root": "rosettes",
+      "forms": [
+        "rosettesevatxt",
+        "rosettesrawtxt"
+      ],
+      "drift": 0.054
+    },
+    {
+      "root": "fullrose",
+      "forms": [
+        "fullrosettesevatxt",
+        "fullrosettesrawtxt"
+      ],
+      "drift": 0.042
+    }
+  ]
+}

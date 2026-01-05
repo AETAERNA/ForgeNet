@@ -1,0 +1,15 @@
+=== ForgeNet Predictive Forecast ===
+Run time: 2026-01-05 12:04:32.860303
+
+Folio                Pred.Score  Simulations
+========================================
+20260105             5.582     (500)
+
+📖 Top tokens to cross-reference:
+creativity, creativityindex, rosettesevatxt, rosettesrawtxt, fullrosettesevatxt
+
+🧠 Interpretation:
+→ Highest predicted scores = most fertile zones for linguistic convergence.
+→ Focus these next: first 3 folios in the list below.
+
+==============================================================

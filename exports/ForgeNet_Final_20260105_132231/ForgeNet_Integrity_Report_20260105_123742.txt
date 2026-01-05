@@ -1,0 +1,31 @@
+============================================================
+🧩  ForgeNet Integrity Check — 20260105_123742
+============================================================
+📁 Checking directory structure...
+✅ Found: /data/data/com.termux/files/home/forge
+✅ Found: /data/data/com.termux/files/home/ForgeNet
+✅ Found: /data/data/com.termux/files/home/.termux/boot
+✅ Found: /data/data/com.termux/files/home/forge/voynich_f17r_sim
+⚙️ Checking core scripts...
+✅ forge_master.sh present
+✅ forgenet_watchdog.sh present
+✅ forgevision_live.sh present
+✅ forgevision_analytics.py present
+✅ forgenet_autosync.sh present
+✅ forgenet_voice.py present
+✅ forgenet_cognitive_loop.py present
+🔒 Checking permissions...
+✅ Executable permissions refreshed
+🌐 Checking GitHub linkage...
+✅ GitHub remote configured: origin	https://github.com/AETAERNA/ForgeNet.git (fetch)
+On branch gh-pages
+nothing to commit, working tree clean
+🩺 Checking active processes...
+✅ forgevision process running
+⚠️  forgevoice process not active
+⚠️  analytics process not active
+✅ ForgeVision dashboard found
+✅ Autopilot script ready
+============================================================
+🧾 Full report written → /data/data/com.termux/files/home/forge/ForgeNet_Integrity_Report_20260105_123742.txt
+============================================================

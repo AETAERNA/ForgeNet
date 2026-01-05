@@ -1,0 +1,11 @@
+------------------------------------------------------------
+📦 Latest archive found: /data/data/com.termux/files/home/forge/ForgeNet_Archive_20260105_104628.zip
+📂 Restoring environment to: /data/data/com.termux/files/home/forge/ForgeNet_Restore_20260105_104652
+✅ Restore complete.
+🔄 Reinitializing Forge subsystems...
+🧭 Launching Forge Autopilot...
+👁️  Starting Watchdog service...
+------------------------------------------------------------
+✅ ForgeNet restarted successfully at: 20260105_104652
+Environment restored to: /data/data/com.termux/files/home/forge/ForgeNet_Restore_20260105_104652
+============================================================

@@ -1,0 +1,74 @@
+============================================================
+🌐 ForgeNet Mobile Web UI Setup Complete
+------------------------------------------------------------
+• Access locally in your browser at:
+  👉 http://127.0.0.1:8080
+• Or from another device (same Wi-Fi):
+  👉 http://<your-phone-IP>:8080
+• Shows live entropy, creativity, cognitive logs, GitHub sync
+------------------------------------------------------------
+✅ Starting server...
+============================================================
+127.0.0.1 - - [05/Jan/2026 12:04:58] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jan/2026 12:04:59] "GET /entropy HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jan/2026 12:04:59] "GET /creativity HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jan/2026 12:04:59] code 404, message File not found
+127.0.0.1 - - [05/Jan/2026 12:04:59] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [05/Jan/2026 12:04:59] "GET /cognitive HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jan/2026 12:04:59] "GET /github HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jan/2026 12:05:04] "GET /entropy HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jan/2026 12:05:04] "GET /creativity HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jan/2026 12:05:04] "GET /cognitive HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jan/2026 12:05:04] "GET /github HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jan/2026 12:05:09] "GET /entropy HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jan/2026 12:05:09] "GET /creativity HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jan/2026 12:05:09] "GET /cognitive HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jan/2026 12:05:09] "GET /github HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jan/2026 12:05:14] "GET /entropy HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jan/2026 12:05:14] "GET /creativity HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jan/2026 12:05:14] "GET /cognitive HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jan/2026 12:05:14] "GET /github HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jan/2026 12:05:19] "GET /entropy HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jan/2026 12:05:19] "GET /creativity HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jan/2026 12:05:19] "GET /cognitive HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jan/2026 12:05:19] "GET /github HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jan/2026 12:05:24] "GET /entropy HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jan/2026 12:05:24] "GET /creativity HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jan/2026 12:05:24] "GET /cognitive HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jan/2026 12:05:24] "GET /github HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jan/2026 12:05:29] "GET /entropy HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jan/2026 12:05:29] "GET /creativity HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jan/2026 12:05:29] "GET /cognitive HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jan/2026 12:05:29] "GET /github HTTP/1.1" 200 -
+============================================================
+🌐 ForgeNet Mobile Web UI Setup Complete
+------------------------------------------------------------
+• Access locally in your browser at:
+  👉 http://127.0.0.1:8080
+• Or from another device (same Wi-Fi):
+  👉 http://<your-phone-IP>:8080
+• Shows live entropy, creativity, cognitive logs, GitHub sync
+------------------------------------------------------------
+✅ Starting server...
+============================================================
+127.0.0.1 - - [05/Jan/2026 12:28:40] "GET /entropy HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jan/2026 12:28:40] "GET /creativity HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jan/2026 12:28:40] "GET /cognitive HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jan/2026 12:28:41] "GET /github HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jan/2026 12:28:44] "GET /entropy HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jan/2026 12:28:44] "GET /creativity HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jan/2026 12:28:44] "GET /cognitive HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jan/2026 12:28:44] "GET /github HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jan/2026 12:28:44] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jan/2026 12:28:44] "GET /entropy HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jan/2026 12:28:45] "GET /creativity HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jan/2026 12:28:45] "GET /cognitive HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jan/2026 12:28:45] "GET /github HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jan/2026 12:28:50] "GET /entropy HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jan/2026 12:28:50] "GET /creativity HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jan/2026 12:28:50] "GET /cognitive HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jan/2026 12:28:50] "GET /github HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jan/2026 12:28:55] "GET /entropy HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jan/2026 12:28:55] "GET /creativity HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jan/2026 12:28:55] "GET /cognitive HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jan/2026 12:28:55] "GET /github HTTP/1.1" 200 -

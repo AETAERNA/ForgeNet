@@ -1,0 +1,5 @@
+============================================================
+🧩  ForgeNet Integrity Check — 20260105_130855
+============================================================
+📁 Checking directory structure...
+✅ Found: /data/data/com.termux/files/home/forge

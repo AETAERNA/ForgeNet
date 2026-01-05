@@ -1,0 +1,9 @@
+📜 Using Manifest: /data/data/com.termux/files/home/forge/ForgeSeal_Genesis_Manifest_20260105_124926.txt
+📦 Using Archive: /data/data/com.termux/files/home/forge/ForgeNet_Genesis_Archive_20260105_124926.zip
+------------------------------------------------------------
+🧮 Comparing current environment to Genesis Manifest...
+✅ All files match the original Genesis Manifest.
+------------------------------------------------------------
+🧩 Verifying archive contents integrity...
+⚠️ Archive check failed. See /tmp/archive_check.log for details.
+------------------------------------------------------------

@@ -1,0 +1,10 @@
+🚀 Launching ForgeVision Live Web Server on http://localhost:8000
+🔁 Auto-refresh every 60 seconds
+✅ ForgeVision Live Web Server started — view in browser:
+👉  http://localhost:8000
+📜 Log: /data/data/com.termux/files/home/forge/forgevision_server.log
+============================================================
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/forge/forgenet_voice.py", line 6, in <module>
+    import os, re, time, termuxapi, speech_recognition as sr
+ModuleNotFoundError: No module named 'termuxapi'

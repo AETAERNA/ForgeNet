@@ -1,0 +1,8 @@
+Lexicon Evolution Graph  —  6 nodes / 3 edges
+============================================================
+creativity      | connections=1
+creativityindex | connections=1
+rosettesevatxt  | connections=1
+rosettesrawtxt  | connections=1
+fullrosettesevatxt | connections=1
+fullrosettesrawtxt | connections=1

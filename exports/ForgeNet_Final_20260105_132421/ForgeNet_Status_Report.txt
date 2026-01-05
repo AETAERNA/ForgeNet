@@ -1,0 +1,32 @@
+🧩 ForgeNet Status — 2026-01-05 12:47:25
+============================================================
+✅ Alive (8 min) — /data/data/com.termux/files/home/forge/forgenet_master.csv
+✅ Alive (145 min) — /data/data/com.termux/files/home/forge/forgenet_creativity_log.txt
+✅ Alive (157 min) — /data/data/com.termux/files/home/forge/forgenet_montecarlo.json
+✅ Alive (0 min) — /data/data/com.termux/files/home/forge/forgenet_research_log.txt
+------------------------------------------------------------
+🧠 Active Forge processes:
+u0_a449   8590  0.0  0.1 2247280 3876 pts/1    S<    1970   0:00 bash /data/data/com.termux/files/home/.termux/boot/forgevision_autopilot.sh
+u0_a449   8603  0.0  0.2 2276636 8844 pts/1    S<    1970   0:00 python /data/data/com.termux/files/home/forge/forgevision_databridge.py
+u0_a449  10107  0.0  0.1 2214512 3896 pts/1    S<    1970   0:00 bash /data/data/com.termux/files/home/.termux/boot/forgevision_autopilot.sh
+u0_a449  11887  0.0  0.1 2241136 3856 pts/1    S<    1970   0:00 bash /data/data/com.termux/files/home/.termux/boot/forgevision_autopilot.sh
+u0_a449  21906  0.0  0.0 2231972 3384 pts/0    S<+   1970   0:00 tmux new -s forge
+u0_a449  23641  0.0  0.0 2146928 3544 pts/1    S<    1970   0:00 bash /data/data/com.termux/files/home/forge/forgenet_overwatch_command.sh
+u0_a449  23646  0.0  0.1 2183792 3880 pts/1    S<    1970   0:00 bash /data/data/com.termux/files/home/forge/forgenet_guardian.sh
+u0_a449  23653  0.0  0.0 2261616 3492 pts/1    S<    1970   0:00 bash /data/data/com.termux/files/home/forge/forgenet_mobile_ui.sh
+u0_a449  23698  0.0  0.1 2289340 7196 pts/1    S<    1970   0:00 python3 server.py
+u0_a449  23699  0.0  0.0 2345868 3692 pts/1    S<    1970   0:00 tee -a /data/data/com.termux/files/home/forge/forgenet_mobile_ui.log
+u0_a449  23704  0.0  0.0 2191984 3596 pts/1    S<    1970   0:00 bash /data/data/com.termux/files/home/forge/forgenet_autocycle_publisher.sh
+u0_a449  28269  1.0  0.1 2181744 4408 pts/1    S<+   1970   0:00 bash /data/data/com.termux/files/home/forge/forgenet_status.sh
+u0_a449  28298  0.0  0.0  60188  3512 pts/1    R<+   1970   0:00 tee -a /data/data/com.termux/files/home/forge/ForgeNet_Status_Report.txt
+u0_a449  29398  0.0  0.1 2319160 7096 pts/1    S<    1970   0:00 python -m http.server 8000
+u0_a449  31419  0.0  0.0 2135716 3124 pts/2    S<+   1970   0:00 tmux attach -t forge
+------------------------------------------------------------
+20260105,3.997,0.0
+20260105,3.997,0.0
+20260105,3.997,0.0
+timestamp,creative_index,variance,note
+2026-01-05 10:25:00,0.42,0.05,initial_seed
+------------------------------------------------------------
+🗜️  Latest archive: /data/data/com.termux/files/home/forge/ForgeNet_Archive_20260105_104628.zip (120 min old)
+============================================================

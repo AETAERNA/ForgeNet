@@ -1,0 +1,23 @@
+🧬 Forge Intelligence Cycle — 20260105_124930
+🚀 Forge Auto-Research Run — Mon Jan  5 12:49:30 CST 2026
+=== [1/3] Running Research Assist ===
+=== [2/3] Running Pattern Visualizer ===
+=== [3/3] Running Neural Insight ===
+✅ Forge Auto-Research cycle complete — log saved to:
+   /data/data/com.termux/files/home/forge/forgenet_auto_research_20260105_124930.log
+🧠 Last 10 lines of log:
+   Folios: f102r2_eva.txt, f17r_eva.txt, f1r_eva.txt, f1r_long_eva.txt, f49v_eva.txt, f67r1_eva.txt, f70v_eva.txt, f76r_eva.txt, f78r_eva.txt, f79r_eva.txt ...
+[Cluster 02] — 2 folios | Avg h1=3.427, h2=0.463
+   Dominant tokens: isqtpxxvororsheey, qokedyqokedyqokedyqokedyqokedyexampleevatext
+   Folios: f116v_eva.txt, sample_eva.txt ...
+[Cluster 03] — 1 folios | Avg h1=4.231, h2=3.202
+   Dominant tokens: ivtffevafalasteditedonbystolfianinterlineararchiveofvoynichmanuscripttranscriptionsinevaovervieweditedbyjstolfireleaseed
+   Folios: full_eva.txt ...
+
+🧩 Clustering complete — linguistic family map rendered.
+🧠 Last 10 lines of log:
+🔍 Drift: 20260105,3.997,0.0
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+ModuleNotFoundError: No module named 'pandas'
+⏱ Next cycle in 2805 seconds (~46 min)
