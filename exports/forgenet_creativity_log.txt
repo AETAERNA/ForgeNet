@@ -1,0 +1,2 @@
+timestamp,creative_index,variance,note
+2026-01-05 10:25:00,0.42,0.05,initial_seed
