@@ -1,0 +1,44 @@
+============================================================
+🌅 ForgeNet Daily Digest — Tue Jan  6 00:04:38 CST 2026
+============================================================
+[📊 Entropy Averages]
+Avg h₁: 3.997 | Avg h₂: 0.000
+[🎨 Creativity Trend]
+   timestamp,creative_index,variance,note
+   2026-01-05 10:25:00,0.42,0.05,initial_seed
+[🔐 Decode Insight]
+   {
+     "timestamp": "2026-01-05 13:53:15.074698",
+     "decode_hints": [
+       {
+         "token": "",
+         "self_entropy": 0,
+         "alignment_score": 0.0,
+         "frequency": 147
+       },
+       {
+[🧠 Journal Extract]
+   [⚠️  Missing: /data/data/com.termux/files/home/forge/forgenet_creativity_timeline.txt]
+   [📄 Decode Insight]
+      {
+        "timestamp": "2026-01-05 13:53:15.074698",
+        "decode_hints": [
+          {
+            "token": "",
+   [⚠️  Missing: /data/data/com.termux/files/home/forge/forgenet_neural_insight_output.txt]
+   [📄 Lexicon Graph]
+      Lexicon Evolution Graph  —  6 nodes / 3 edges
+      ============================================================
+      creativity      | connections=1
+      creativityindex | connections=1
+      rosettesevatxt  | connections=1
+   ---- Summary Extract ----
+   🧩 Auto Summary (2026-01-05 13:32:08):
+    Total folios analyzed: 25 VOLATILE cluster: 25 folios — avg entropy 3.832 Dominant tokens: iaqipbteeodaiinsheyepairodyosaiinyteeoeysheyepaiinoaiinteeodaiinsheyepainodyosaiinytaoeysheyepaiinoaiirteeodaiinsheyepairodyosaiinyteeoeysheyepaiinoai Persistent high-entropy terms: ibqmpklbhyoralyaryorolyolchdyolcheyolchdyokalyokalookalookolookalookolookoryokarookaryoporeparoparolkyolkyolkyotalshedyokalshedyotalshedyokarokanokano Low-predictability (h1-h2>1.5) folios: f116v_eva.txt, f17r_eva.txt, f1r_eva.txt, f1r_long_eva.txt, f49v_eva.txt, f76r_eva.txt, f78r_eva.txt, f79r_eva.txt, f80r_eva.txt, f81r_eva.txt, f82r_eva.txt, f82v_eva.txt, f83r_eva.txt, f83v_eva.txt, f84r_eva.txt, f88r_eva.txt, f8r_eva.txt, full_rosettes_eva.txt, rosettes_eva.txt, sample_eva.txt
+   --------------------------
+   ✅ Journal entry complete @ 2026-01-06 00:04:35
+   
+[📈 Entropy Stability Map]
+                                                            
+============================================================
+✅ Daily Digest complete @ Tue Jan  6 00:04:58 CST 2026
